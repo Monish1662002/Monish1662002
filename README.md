@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Monish S
 - 👀 I’m interested in Python Development
-- 🌱 I’m currently learning Python Selenium
-- 💞️ I’m looking to collaborate on Weblogixs
-- 📫 monish.s1662002@gmail.com
+  
 
 
 <!---
